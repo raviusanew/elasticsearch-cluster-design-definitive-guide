@@ -1,4 +1,4 @@
-# Designing the Perfect Elasticsearch Cluster: the \(almost\) Definitive Guide {#ed1d}
+# Designing the Perfect Elasticsearch Cluster: the (almost) Definitive Guide
 
 Ever since I started to write about [operating Elasticsearch](https://thoughts.t37.net/tagged/elasticsearch), I have answered many questions about cluster design. Every one of them we asked by people who were already running Elasticsearch and ran into trouble after the first users came.
 
